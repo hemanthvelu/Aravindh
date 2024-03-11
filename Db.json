@@ -1,0 +1,14 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "checked": true,
+      "name": "html"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "name": "css"
+    }
+  ]
+}
